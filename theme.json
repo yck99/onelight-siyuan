@@ -1,0 +1,21 @@
+{
+  "name": "onelight-siyuan",
+  "author": "yck99",
+  "url": "https://github.com/yck99/onelight-siyuan",
+  "version": "0.1.0",
+  "modes": [
+    "light",
+    "dark"
+  ],
+  "displayName": {
+    "default": "onelight"
+  },
+  "description": {
+    "default": "Typora onelight and onelight-dark adapted for SiYuan",
+    "zh_CN": "将 Typora 的 onelight 与 onelight-dark 移植到思源笔记"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  }
+}
