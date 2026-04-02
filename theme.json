@@ -2,7 +2,7 @@
   "name": "onelight-siyuan",
   "author": "yck99",
   "url": "https://github.com/yck99/onelight-siyuan",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "modes": [
     "light",
     "dark"
