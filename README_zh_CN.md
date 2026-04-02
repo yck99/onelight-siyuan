@@ -1,5 +1,7 @@
 # onelight-siyuan
 
+中文 | [English](./README_EN.md)
+
 这是一个非官方的双模式思源主题，用于将 Typora 的 `onelight` 与 `onelight-dark` 一并迁移到思源笔记。
 
 ![预览图](./preview.png)
@@ -27,3 +29,9 @@
 ## 安装方式
 
 发布到思源集市后可直接在集市安装，也可以从 GitHub Release 下载 `package.zip` 后手动导入主题包。
+
+## 鸣谢
+
+- 感谢 onelight 原主题作者提供了出色的 Typora 主题设计与基础素材
+- 感谢 ChatGPT 在需求沟通、整理发布信息和协作推进中的帮助
+- 本项目的实际移植、适配、排错、打包与发布准备工作由 Codex 完成
