@@ -40,5 +40,5 @@ An unofficial dual-mode SiYuan theme that ports Typora's `onelight` and `oneligh
 ## Acknowledgements
 
 - Thanks to the original onelight author for the Typora theme design and source assets
-- Thanks to ChatGPT for helping with requirement communication, release write-up, and collaboration
-- The actual porting, adaptation, debugging, packaging, and release preparation for this project were completed by Codex
+- Thanks to ChatGPT and Claude for helping with requirement communication, release write-up, and collaboration
+- The actual porting, adaptation, debugging, packaging, and release preparation for this project were completed by Codex and Claude Code
