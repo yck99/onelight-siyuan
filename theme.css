@@ -1,11 +1,4 @@
 @font-face {
-    font-family: "JetBrainsMono-Regular";
-    src: url("./fonts/JetBrainsMono-Regular.woff2") format("woff2");
-    font-style: normal;
-    font-weight: 400;
-}
-
-@font-face {
     font-family: "MiaoZi-GuoZhiTi";
     src: url("./fonts/MiaoZi-GuoZhiTi.woff2") format("woff2");
     font-style: normal;
