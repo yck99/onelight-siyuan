@@ -12,13 +12,6 @@
     font-weight: 400;
 }
 
-@font-face {
-    font-family: "codicon";
-    src: url("./fonts/codicon.ttf") format("truetype");
-    font-style: normal;
-    font-weight: 400;
-}
-
 :root[data-theme-mode="light"] {
     --onelight-theme: #166ff3;
     --onelight-theme-light: rgba(22, 111, 243, 0.18);

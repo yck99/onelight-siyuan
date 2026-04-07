@@ -1,10 +1,8 @@
 # onelight-siyuan
 
-中文 | [English](./README_EN.md)
+[English](https://github.com/yck99/onelight-siyuan/blob/main/README.md) | 中文
 
 这是一个非官方的双模式思源主题，用于将 Typora 的 `onelight` 与 `onelight-dark` 一并迁移到思源笔记。
-
-![预览图](./preview.png)
 
 ## 特性
 
@@ -13,6 +11,7 @@
 - 覆盖正文、标题、列表、引用、表格、行内代码和代码块
 - 同步适配工具栏、页签、文件树、对话框和菜单
 - 保留上游 Typora 主题的装饰人物图和所需字体资源
+- 在简体中文界面下，将 `MiaoZi-GuoZhiTi` 放在字体栈前面，因此中文界面文字会和思源默认主题不同
 
 ## 上游来源
 
@@ -28,7 +27,15 @@
 
 ## 安装方式
 
-发布到思源集市后可直接在集市安装，也可以从 GitHub Release 下载 `package.zip` 后手动导入主题包。
+- 发布到思源集市后可直接在集市安装
+- 或从最新 GitHub Release 下载 `package.zip` 手动导入：
+  <https://github.com/yck99/onelight-siyuan/releases/latest>
+
+## 文件入口
+
+- 主题配置：<https://github.com/yck99/onelight-siyuan/blob/main/theme.json>
+- 主题样式：<https://github.com/yck99/onelight-siyuan/blob/main/theme.css>
+- 英文 README：<https://github.com/yck99/onelight-siyuan/blob/main/README.md>
 
 ## 鸣谢
 
