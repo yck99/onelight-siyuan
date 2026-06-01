@@ -498,30 +498,15 @@ body {
 }
 
 .protyle-wysiwyg [data-subtype="u"] > .protyle-action svg {
-    width: 6px !important;
-    height: 6px !important;
-    color: transparent;
-    border-radius: 50%;
-    background-color: var(--onelight-theme);
-    border: 1px solid var(--onelight-theme);
+    color: var(--onelight-theme);
 }
 
 .protyle-wysiwyg [data-subtype="u"] .li[data-subtype="u"] > .protyle-action svg {
-    width: 6px !important;
-    height: 6px !important;
-    color: transparent;
-    border-radius: 50%;
-    background-color: var(--b3-theme-background);
-    border: 1px solid var(--onelight-theme);
+    color: var(--onelight-theme);
 }
 
 .protyle-wysiwyg [data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] > .protyle-action svg {
-    width: 6px !important;
-    height: 6px !important;
-    color: transparent;
-    border-radius: 0;
-    background-color: var(--onelight-theme);
-    border: 1px solid var(--onelight-theme);
+    color: var(--onelight-theme);
 }
 
 .protyle-wysiwyg [data-node-id].li > .protyle-action:hover svg {
@@ -818,17 +803,15 @@ body {
 }
 
 :root[data-theme-mode="dark"] .protyle-wysiwyg [data-subtype="u"] > .li > .protyle-action svg {
-    background-color: var(--onelight-text);
-    border: 1px solid var(--onelight-text);
+    color: var(--onelight-text);
 }
 
 :root[data-theme-mode="dark"] .protyle-wysiwyg [data-subtype="u"] .li[data-subtype="u"] > .protyle-action svg {
-    border: 1px solid var(--onelight-text);
+    color: var(--onelight-text);
 }
 
 :root[data-theme-mode="dark"] .protyle-wysiwyg [data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] > .protyle-action svg {
-    background-color: var(--onelight-text);
-    border: 1px solid var(--onelight-text);
+    color: var(--onelight-text);
 }
 
 :root[data-theme-mode="dark"] .protyle-task--done > .p,
